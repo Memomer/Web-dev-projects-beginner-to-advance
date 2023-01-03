@@ -13,7 +13,7 @@ My plan is to get 100 projects and then 100 unique renditions.
 and the source code of original project's extension or recreation. 
 
 ## Project List->
-1.)rock-paper-scissor
-2.)(project-inspired from rock paper scissor)
-3.)Color flipper
+- 1.)rock-paper-scissor
+- 2.)(project-inspired from rock paper scissor)
+- 3.)Color flipper
 
