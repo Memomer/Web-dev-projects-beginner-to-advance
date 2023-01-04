@@ -1,0 +1,81 @@
+body{
+    margin:0px;
+}
+
+h4{
+    margin: 0px;
+    align-self: center;
+}
+
+.nav-center{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    background-color: aliceblue;
+    box-shadow: 10px 0px 8px 5px rgba(0, 0, 0, 0.2);
+    height: 3rem;
+}
+
+ul{
+    padding: 0px;
+    margin: 0px 0px 0px 0px;
+    list-style: none;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    flex: 1 1 0;
+    border-top: 0px;
+    align-items: center;
+}
+
+li{
+    font-size: 1.5rem;
+    font-family: fantasy; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; 
+    width: 50%;
+    text-align: center;
+    border-right: 3px solid rgba(156, 176, 24, 0.7);
+ 
+}
+
+a{
+    text-decoration:none;
+    text-shadow: 2px;
+    color: rgba(245, 28, 28, 0.8);
+}
+
+
+/* button part*/
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height:400px;
+    gap: 20px;
+
+}
+
+
+h2{
+    background-color:#000000;
+    color: #42dae4;
+    padding: 1em;
+    border: 5px solid rgb(22, 150, 189);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+    border-radius: 3em;
+    
+}
+
+button{
+    border:3px solid rgb(82, 246, 91);
+    outline:none;
+    background-color: #000000;
+    color: rgb(82, 246, 91);
+    padding: 0.5em;
+    border-radius: 3em;
+    font-weight: 900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+}
