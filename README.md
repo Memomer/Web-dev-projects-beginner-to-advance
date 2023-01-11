@@ -22,3 +22,7 @@ and the source code of original project's extension or recreation.
 
 -theme-flipper
 
+-color-flipper
+
+-review
+
