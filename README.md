@@ -1,8 +1,8 @@
 # 200_js_projects
-100 projects and there unique render that i made and thought of myself
+- 100 projects and their unique render that i made and thought of myself
 
 ## Reverse Engineering Projects
-So what I am trying to do here is that I find projects on vanilla js, code it out once, trying to understand
+- So what I am trying to do here is that I find projects on vanilla js, code it out once, trying to understand
 how each part of the cog works, then extending or recreating that project myself from scratch( if i am not able
 to code the project).
 
