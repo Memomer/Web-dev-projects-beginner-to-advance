@@ -6,7 +6,7 @@
 - I want to take up this oppurtunity to make as many projects, discover and use various API's, Libraries and Frameworks, in the process hopefully contribute something to open source. 
 - I find the fact that i can make an impact by coding out my ideas, i want to use this as a platform to express myself through my project.
 
-My plan is to get done with 200 projects each project reflecting what i learned, I will try to add a readMe file explaining the stuff I learned with a gif-demonstration of each.
+My plan is to get done with 200 projects each project reflecting what i learned, I will try to add a readMe file explaining the stuff I learned with a gif-demonstration for each.
 
 ## How the project files are organized
 - Projects from hackathons, youtube tutorials(FCC, WesBos, webdevsimplified etc) , my one ideas that i brought to life.
