@@ -25,5 +25,5 @@ My plan is to get done with 200 projects each project reflecting what i learned,
 
 -color-flipper
 
--blue-lock-player-profile
+-blue-lock-player-profile (named as review)
 
