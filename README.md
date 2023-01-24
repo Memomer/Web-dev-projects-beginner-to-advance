@@ -9,13 +9,10 @@
 My plan is to get done with 200 projects each project reflecting what i learned, I will try to add a readMe file explaining the stuff I learned with a gif-demonstration for each.
 
 ## How the project files are organized
-- Projects from hackathons, youtube tutorials(FCC, WesBos, webdevsimplified etc) , my one ideas that i brought to life.
+- Projects from hackathons, youtube tutorials(FCC, WesBos, webdevsimplified etc) , ideas/personal-projects that i brought to life.
 
 ## Aim of this repo-
-- I hope this repo inspires and helps beginners to learn by creating there own projects and provide then ideas to many projects with the code so they can review and check where they went wrong.
-
-
-
+- I hope this repo inspires beginners to learn by creating their own projects and provides them with source code to review the code they wirte for projects.
 ## Project List->
 
 -counter
