@@ -12,7 +12,7 @@ My plan is to get done with 200 projects each project reflecting what i learned,
 - Projects from hackathons, youtube tutorials(FCC, WesBos, webdevsimplified etc) , ideas/personal-projects that i brought to life.
 
 ## Aim of this repo-
-- I hope this repo inspires beginners to learn by creating their own projects and provides them with source code to review the code they wirte for projects.
+- I hope this repo inspires beginners to learn by creating their own projects and provides them with source code to review the code they write for projects.
 ## Project List->
 
 -counter
