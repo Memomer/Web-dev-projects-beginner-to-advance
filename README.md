@@ -8,8 +8,15 @@
 
 My plan is to get done with 200 projects each project reflecting what i learned, I will try to add a readMe file explaining the stuff I learned with a gif-demonstration for each.
 
-## How the project files are organized
+## Where these project ideas come from
 - Projects from hackathons, youtube tutorials(FCC, WesBos, webdevsimplified etc) , ideas/personal-projects that i brought to life.
+
+## Organization of each project folder-
+Each folder will have all the necessary source code files and ReadME.md file which contains - 
+   ### Things I learned
+   ### Tutorial source if i have used one
+   ### Helpful links containing more resources for the same
+ 
 
 ## Aim of this repo-
 - I hope this repo inspires beginners to learn by creating their own projects and provides them with source code to review the code they write for projects.
