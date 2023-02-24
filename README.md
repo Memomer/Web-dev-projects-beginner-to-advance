@@ -21,7 +21,10 @@ Each folder will have all the necessary source code files and ReadME.md file whi
 ## Aim of this repo-
 - I hope this repo inspires beginners to learn by creating their own projects and provides them with source code to review the code they write for projects.
 ## Project List->
+### HTML Canvas
+- Circles
 
+### Basic Javascript
 -counter
 
 -open-library-api
