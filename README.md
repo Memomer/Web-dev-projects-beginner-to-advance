@@ -23,6 +23,7 @@ Each folder will have all the necessary source code files and ReadME.md file whi
 ## Project List->
 ### HTML Canvas
 - Circles
+- Bezier Curve
 
 ### Basic Javascript
 -counter
