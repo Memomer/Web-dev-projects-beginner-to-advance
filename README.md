@@ -24,6 +24,7 @@ Each folder will have all the necessary source code files and ReadME.md file whi
 ### HTML Canvas
 - Circles
 - Bezier Curve
+- Ball Bouncing animation
 
 ### Basic Javascript
 -counter
