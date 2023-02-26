@@ -25,6 +25,7 @@ Each folder will have all the necessary source code files and ReadME.md file whi
 - Circles
 - Bezier Curve
 - Ball Bouncing animation
+- Single Shooter Game
 
 ### Basic Javascript
 -counter
