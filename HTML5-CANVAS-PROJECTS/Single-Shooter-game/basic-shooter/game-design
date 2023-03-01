@@ -1,0 +1,13 @@
+-Create a player
+-shoot projectiles
+-create enemies 
+-detect collision on enemy/projectile
+-detect collision on enemy/player
+-Remove off screen projectiles
+-colorize game
+-Shrink enemies on hit
+-Create particle explosion on hit
+- Add score
+- Add game over UI
+- add restart game
+- add start game buttpn
