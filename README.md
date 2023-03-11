@@ -26,17 +26,13 @@ Each folder will have all the necessary source code files and ReadME.md file whi
 - Bezier Curve
 - Ball Bouncing animation
 - Single Shooter Game
+- Mario Runner Game
 
 ### Basic Javascript
 -counter
-
 -open-library-api
-
 -rock-paper-scissors
-
 -theme-flipper
-
 -color-flipper
-
 -blue-lock-player-profile (named as review)
 
